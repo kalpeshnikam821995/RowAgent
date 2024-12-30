@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-15T07:59:58 IST" name="Default suite" finished-at="2024-11-15T08:00:21 IST" duration-ms="22877">
+    <groups>
+    </groups>
+    <test started-at="2024-11-15T07:59:58 IST" name="Default test" finished-at="2024-11-15T08:00:21 IST" duration-ms="22877">
+      <class name="reading_Data_From_Excel.RediffLoginTest">
+        <test-method signature="rediffLoginTest(java.lang.String,java.lang.String)[pri:0, instance:reading_Data_From_Excel.RediffLoginTest@4b2bac3f]" started-at="2024-11-15T07:59:59 IST" name="rediffLoginTest" data-provider="Rediff" finished-at="2024-11-15T08:00:05 IST" duration-ms="6173" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda@rediffmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rediffLoginTest -->
+        <test-method signature="rediffLoginTest(java.lang.String,java.lang.String)[pri:0, instance:reading_Data_From_Excel.RediffLoginTest@4b2bac3f]" started-at="2024-11-15T08:00:05 IST" name="rediffLoginTest" data-provider="Rediff" finished-at="2024-11-15T08:00:09 IST" duration-ms="3745" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda1@rediffmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Donkey@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rediffLoginTest -->
+        <test-method signature="rediffLoginTest(java.lang.String,java.lang.String)[pri:0, instance:reading_Data_From_Excel.RediffLoginTest@4b2bac3f]" started-at="2024-11-15T08:00:09 IST" name="rediffLoginTest" data-provider="Rediff" finished-at="2024-11-15T08:00:13 IST" duration-ms="4106" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chowdhurygs@rediffmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Shajlee1@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rediffLoginTest -->
+        <test-method signature="rediffLoginTest(java.lang.String,java.lang.String)[pri:0, instance:reading_Data_From_Excel.RediffLoginTest@4b2bac3f]" started-at="2024-11-15T08:00:13 IST" name="rediffLoginTest" data-provider="Rediff" finished-at="2024-11-15T08:00:17 IST" duration-ms="3560" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mohamedboudguig@rediffmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Medbdg0707@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rediffLoginTest -->
+        <test-method signature="rediffLoginTest(java.lang.String,java.lang.String)[pri:0, instance:reading_Data_From_Excel.RediffLoginTest@4b2bac3f]" started-at="2024-11-15T08:00:17 IST" name="rediffLoginTest" data-provider="Rediff" finished-at="2024-11-15T08:00:21 IST" duration-ms="4401" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[homa_rahimi@rediffmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Winter2021?]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rediffLoginTest -->
+      </class> <!-- reading_Data_From_Excel.RediffLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
